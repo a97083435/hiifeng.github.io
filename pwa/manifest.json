@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "HiFeng's Blog",
+  "short_name": "HiFeng's Blog",
+  "description": "Building a web server using GitHub.",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
