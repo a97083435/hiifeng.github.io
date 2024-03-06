@@ -60,7 +60,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hifengblog
+disqus_username: iifeng
 
 # Netease settings
 netease_comment: false
