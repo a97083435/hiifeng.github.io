@@ -92,7 +92,7 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "HiFeng'Blog", href: "http://www.hicairo.com" },
+    { title: "HiFeng's Blog", href: "http://www.hicairo.com" },
 #    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
 #    { title: "Kun Qian", href: "http://kunq.me" },
 #    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
