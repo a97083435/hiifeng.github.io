@@ -27,7 +27,50 @@ tags:
 
 以下是使用 Bench.sh 的检测情况，其中包含服务器硬件配置信息、 I/O 速度、与各个国家/地区的网速情况。虽然 DartNode 在其官网说明提供带宽为  1 Gb/s 不限流量套餐，但从以下的测试结果来看，并没有达到 1 Gb/s 的速度，但是我感觉 200-300 Mb/s 的速度也基本可以满足日常工作和学习的需求。
 ```shell
-
+-------------------- A Bench.sh Script By Teddysun -------------------
+ Version            : v2023-10-15
+ Usage              : wget -qO- bench.sh | bash
+----------------------------------------------------------------------
+ CPU Model          : Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz
+ CPU Cores          : 1 @ 2699.998 MHz
+ CPU Cache          : 16384 KB
+ AES-NI             : ✓ Enabled
+ VM-x/AMD-V         : ✗ Disabled
+ Total Disk         : 10.0 GB (2.4 GB Used)
+ Total Mem          : 974.7 MB (315.7 MB Used)
+ System uptime      : 37 days, 21 hour 45 min
+ Load average       : 0.05, 0.07, 0.02
+ OS                 : CentOS Linux release 7.9.2009 (Core)
+ Arch               : x86_64 (64 Bit)
+ Kernel             : 6.7.1-1.el7.elrepo.x86_64
+ TCP CC             : cubic
+ Virtualization     : KVM
+ IPv4/IPv6          : ✓ Online / ✓ Online
+ Organization       : AS399646 Snaju Development
+ Location           : Houston / US
+ Region             : Texas
+----------------------------------------------------------------------
+ I/O Speed(1st run) : 85.4 MB/s
+ I/O Speed(2nd run) : 71.0 MB/s
+ I/O Speed(3rd run) : 81.5 MB/s
+ I/O Speed(average) : 79.3 MB/s
+----------------------------------------------------------------------
+ Node Name        Upload Speed      Download Speed      Latency
+ Speedtest.net    337.18 Mbps       619.38 Mbps         18.19 ms
+ Los Angeles, US  257.40 Mbps       371.00 Mbps         37.94 ms
+ Dallas, US       462.26 Mbps       374.00 Mbps         8.31 ms
+ Montreal, CA     587.50 Mbps       677.16 Mbps         48.13 ms
+ Paris, FR        76.74 Mbps        454.88 Mbps         113.21 ms
+ Amsterdam, NL    224.56 Mbps       791.66 Mbps         116.42 ms
+ Shanghai, CN     185.50 Mbps       924.59 Mbps         193.23 ms
+ Hongkong, CN     187.20 Mbps       65.38 Mbps          217.23 ms
+ Mumbai, IN       24.22 Mbps        233.17 Mbps         254.74 ms
+ Singapore, SG    97.70 Mbps        551.87 Mbps         207.44 ms
+ Tokyo, JP        76.76 Mbps        354.08 Mbps         136.26 ms
+----------------------------------------------------------------------
+ Finished in        : 6 min 45 sec
+ Timestamp          : 2024-03-01 01:42:00 UTC
+----------------------------------------------------------------------
 ```
 
 ## 二、账号注册
