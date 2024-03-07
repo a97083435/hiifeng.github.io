@@ -30,10 +30,15 @@
 <!--<img src="/img/icon_wechat.png" width="0" height="0" />-->
 <!-- Migrate from head to bottom, no longer block render and still work -->
 
-<!-- Modified by iFeng to add the Return to Top function. 202403061305 -->
+<!-- Modified by iFeng to add the Return to Top function. 202403061305 
 <a id="back-to-top" href="#" class="btn btn-primary btn-lg back-to-top" role="button" title="返回顶部" data-toggle="tooltip" data-placement="left">
 <span class="glyphicon glyphicon-chevron-up"></span>
-</a>
+</a>-->
+<div id="back-to-top">
+    <a href="#section" data-toggle="tooltip" data-placement="top" title="top">
+    <i class="fa fa-chevron-up" aria-hidden="true"></i>
+    </a>
+</div>
 <script>
 $(document).ready(function(){
      $(window).scroll(function () {
