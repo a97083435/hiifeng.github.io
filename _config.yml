@@ -13,6 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
+wechat: true
+#qq_username: 10000
 #weibo_username: ifeng
 #zhihu_username: ifeng
 github_username: hiifeng
@@ -20,8 +22,6 @@ twitter_username: HiaiFeng
 facebook_username: HiaiFeng
 telegram_username: HiaiFeng
 #linkedin_username:  firstname-lastname-idxxxx
-#qq_username: 10000
-wechat: true
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
