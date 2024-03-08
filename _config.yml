@@ -8,9 +8,6 @@ keyword: "linux,debian,gentoo,ubuntu,redhat,centos,fedora,arch linux,openSuse,sh
 url: "https://demo.hidoha.net" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
-plugins:
- - jekyll-sitemap
-
 # Publish posts or collection documents with a future date.
 future: true
 
