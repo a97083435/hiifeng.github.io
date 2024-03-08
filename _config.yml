@@ -21,7 +21,7 @@ facebook_username: HiaiFeng
 telegram_username: HiaiFeng
 #linkedin_username:  firstname-lastname-idxxxx
 #qq_username: 10000
-#wechat_username: HiaiFeng
+wechat_username: HiaiFeng
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
