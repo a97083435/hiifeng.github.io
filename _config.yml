@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-wechat: true
+wechat: false
 #qq_username: 10000
 #weibo_username: ifeng
 #zhihu_username: ifeng
