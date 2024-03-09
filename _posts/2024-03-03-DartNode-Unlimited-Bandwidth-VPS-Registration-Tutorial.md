@@ -174,5 +174,3 @@ DartNode vps 是按月进行计费的，如果您没有绑定信用卡，建议�
 以下为 DartNode 客服的回复截图。
 
 ![](https://www.hicairo.com/zb_users/upload/2024/03/202403031709454973613054.webp)
-
-本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
