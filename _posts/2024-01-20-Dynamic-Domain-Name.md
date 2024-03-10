@@ -2,7 +2,7 @@
 layout:     keynote
 title:      "在光猫/软路由上使用 Cloudflare 的动态域名"
 subtitle:   "Using Cloudflare's Dynamic Domain Name"
-iframe:     "/_includes/2024-01-20/yanshuo.html"
+iframe:     "/includes/iframe/2024-01-20/yanshuo.html"
 navcolor:   "invert"
 date:       2024-01-20
 author:     "ifeng"
