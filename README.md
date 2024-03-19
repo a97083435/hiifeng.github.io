@@ -9,7 +9,7 @@ Telegram: https://t.me/HiaiFeng <br>
 # 更新日志：
 2024年03月18日<br>
 <li>切换 fontawesome-webfont 版本为 4.7.0 ，支持 QQ 、Telgram 等图标；</li>
-<li>增加返回顶部按钮。</li>
+<li>增加返回顶部按钮；</li>
 <li>修改首页底部在手机浏览器中出现空白块的 BUG；</li>
 <li>增加站点地图。</li>
 
