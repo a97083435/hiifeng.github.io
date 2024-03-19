@@ -3,7 +3,8 @@ layout: post
 title: "电视家等网络直播 APP 被禁用下架，免费看 IPTV 的解决办法"
 subtitle: "How to watch TV for free in China"
 author: "ifeng"
-header-style: text
+header-img: "img/post-bg-tv.png"
+header-mask: 0.4
 tags:
   - IPTV
   - 直播源
