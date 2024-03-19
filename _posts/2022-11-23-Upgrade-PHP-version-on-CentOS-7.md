@@ -4,7 +4,7 @@ title: "CentOS 7 升级 php 5.4 到 php 7.2"
 subtitle: "Upgrade PHP version on CentOS 7"
 author: "ifeng"
 header-img: ""
-header-bg-css: "linear-gradient(to right, #60AD90, #085437);"
+header-bg-css: "linear-gradient(to right, #298E66, #035435);"
 tags:
     - CentOS
     - php
